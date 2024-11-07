@@ -1,3 +1,6 @@
+# Cohort-3.0-Python-Programming-Fellowship-Assignment-
+Week One Assignment 
+
 My Journey into Arewa Data Science Academy
 
 I started on a transformative journey with Arewa Data Science Academy, thanks to a friend who recognized my eagerness to acquire tech skills, particularly in machine learning. He shared a link to the academy on WhatsApp, and I promptly filled out the necessary information.
@@ -20,5 +23,3 @@ I used Git instead of GitHub, which wasn’t compatible with my system.
 
 
 
-# Cohort-3.0-Python-Programming-Fellowship-Assignment-
-Week One Assignment 
